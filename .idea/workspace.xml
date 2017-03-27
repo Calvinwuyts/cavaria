@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db6413d-69e6-4bb4-8daa-8cdc1ea9530e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vidimg6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weblogo_headersite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video1.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video2.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video3.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video4.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video5.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/video6.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wherethemagichappens.js" />
-    </list>
+    <list default="true" id="9db6413d-69e6-4bb4-8daa-8cdc1ea9530e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -79,20 +55,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cavaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cavaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cavaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -178,15 +140,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490608816491</updated>
-      <workItem from="1490608817869" duration="46000" />
+      <workItem from="1490608817869" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46000" />
+    <option name="totallyTimeSpent" value="715000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1276" height="777" extended-state="6" />
+    <frame x="4" y="23" width="1276" height="777" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
