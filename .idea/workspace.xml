@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db6413d-69e6-4bb4-8daa-8cdc1ea9530e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/din.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dinbold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/belgium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/england.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/france.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logotop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/netherlands.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/past/Index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/past/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todo.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vidimg5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vidimg6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subpages/vid6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video1.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video2.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video3.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video4.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video5.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video6.mp4" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weblogo_headersite.png" afterPath="$PROJECT_DIR$/images/logobottom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/subpages/vid5.html" afterPath="$PROJECT_DIR$/subpages/vid1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid1en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid1fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid1nl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid2en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid2fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid2nl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid3en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid3fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid3nl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid4en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid4fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subpages/vid4nl.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subpages/vid1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subpages/vid2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subpages/vid3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subpages/vid4.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/vidimg1.png" afterPath="$PROJECT_DIR$/images/vidimg1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/vidimg2.png" afterPath="$PROJECT_DIR$/images/vidimg2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/vidimg3.png" afterPath="$PROJECT_DIR$/images/vidimg3.png" />
@@ -32,9 +25,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/vid2.html" afterPath="$PROJECT_DIR$/subpages/vid2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/vid3.html" afterPath="$PROJECT_DIR$/subpages/vid3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/vid4.html" afterPath="$PROJECT_DIR$/subpages/vid4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wherethemagichappens.js" afterPath="$PROJECT_DIR$/wherethemagichappens.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -53,18 +43,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="76" lean-forward="false" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+            <state relative-caret-position="1071">
+              <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/past/Index.html">
+      <file leaf-file-name="vid1en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subpages/vid1en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vid1fr.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subpages/vid1fr.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -104,8 +104,9 @@
         <option value="$PROJECT_DIR$/cavaria/todo.txt" />
         <option value="$PROJECT_DIR$/cavaria/Index.html" />
         <option value="$PROJECT_DIR$/cavaria/style.css" />
-        <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/subpages/vid1en.html" />
+        <option value="$PROJECT_DIR$/Index.html" />
       </list>
     </option>
   </component>
@@ -116,9 +117,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1077" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -148,6 +150,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cavaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cavaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subpages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cavaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cavaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -166,11 +196,11 @@
       <recent name="C:\Users\Calvin\cavaria\cavaria" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Calvin\cavaria\subpages" />
       <recent name="C:\Users\Calvin\cavaria\past" />
       <recent name="C:\Users\Calvin\cavaria\cavaria\subpages" />
       <recent name="C:\Users\Calvin\cavaria\images" />
       <recent name="C:\Users\Calvin\cavaria" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,17 +294,25 @@
       <option name="presentableId" value="Default" />
       <updated>1490608816491</updated>
       <workItem from="1490608817869" duration="715000" />
-      <workItem from="1493909349908" duration="5929000" />
+      <workItem from="1493909349908" duration="8263000" />
     </task>
+    <task id="LOCAL-00001" summary="changed layout, added buttons">
+      <created>1493915966835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493915966835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6644000" />
+    <option name="totallyTimeSpent" value="8978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1077" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50104386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -297,6 +335,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed layout, added buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed layout, added buttons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -351,18 +393,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="76" lean-forward="false" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+        <state relative-caret-position="105">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/subpages/vid1en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subpages/vid1fr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding />
         </state>
       </provider>
